@@ -1,0 +1,9 @@
+{
+  "manifest_version": 3,
+  "name": "THB/CAD Converter",
+  "version": "0.1.0",
+  "description": "Simple Currency Exchange extension for THB and CAD",
+  "action": {
+    "default_popup": "src/popup/popup.html"
+  }
+}
